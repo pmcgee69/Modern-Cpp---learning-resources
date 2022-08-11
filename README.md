@@ -89,7 +89,9 @@ Text copied from my Obsidian vault.
 #### C++Builder ( & Community Edition)
 
 - Sample Folder "Modern C++"   
-				  ![[Pasted image 20220728111947.png|300]]
+
+  ![](https://github.com/pmcgee69/Modern-Cpp---learning-resources/blob/main/Pasted%20image%2020220728111947.png)
+				  
 
 
 #### Books
